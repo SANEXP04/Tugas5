@@ -16,7 +16,7 @@ Kelas   : TI.22.A1
 
 3. cek keterangan instalasi berhasil pada menu cmd dengan cara ketik python --version,  dan instalasi dinyatakan berhasil dijalankan pada menu cmd
 
-![Screenshot (36)](https://user-images.githubusercontent.com/115678171/197453979-71154602-a876-41f6-b784-fa353f702721.png)
+![Screenshot (18)](https://user-images.githubusercontent.com/115678077/198073052-34b8480a-24cf-4df1-b719-6a1c864ac2ca.png)
 
 # Latihan Python 1
 1. pada menu windows ketik python dan akan muncul Python (Python 3.10 64-bit) sesuai dengan versi Pyhton yang di donwload.
