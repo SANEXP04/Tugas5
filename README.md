@@ -6,20 +6,20 @@ Nim     : 312210047
 Kelas   : TI.22.A1
 
 # Install Python
-1. download pyhton pada web resmi python https://www.python.org/ dengan menyesuaikan OS dari versi masing masing.
+1. Download pyhton pada web resmi python https://www.python.org/ dengan menyesuaikan OS dari versi masing masing.
 ![Screenshot (40)](https://user-images.githubusercontent.com/115678171/197451921-0c583f35-3915-4b06-b0fd-11d335f82708.png)
 
-2. buka hasil download kemudian klik install, tunggu sampai proses installasi selesai ( ceklis setiap menu yang di tampilkan selama porses installasi )
+2. Buka hasil download kemudian klik install, tunggu sampai proses installasi selesai ( ceklis setiap menu yang di tampilkan selama porses installasi )
 
 ![Screenshot (44)](https://user-images.githubusercontent.com/115678171/197481055-2dfb00bc-f1c2-4cc4-9954-d9eca35c2746.png)
 <img width="501" alt="foto 3" src="https://user-images.githubusercontent.com/115473988/197392292-9ce532fc-4788-428e-bf8c-325b45f26b04.png">
 
-3. cek keterangan instalasi berhasil pada menu cmd dengan cara ketik python --version,  dan instalasi dinyatakan berhasil dijalankan pada menu cmd
+3. Cek keterangan instalasi berhasil pada menu cmd dengan cara ketik python --version,  dan instalasi dinyatakan berhasil dijalankan pada menu cmd
 
 ![Screenshot (18)](https://user-images.githubusercontent.com/115678077/198073052-34b8480a-24cf-4df1-b719-6a1c864ac2ca.png)
 
 # Latihan Python 1
-1. pada menu windows ketik python dan akan muncul Python (Python 3.10 64-bit) sesuai dengan versi Pyhton yang di donwload.
+1. Pada menu windows ketik python dan akan muncul Python (Python 3.10 64-bit) sesuai dengan versi Pyhton yang di donwload.
 
 2. Setelah masuk python masukan perintah seperti dibawah ini  
 
@@ -33,7 +33,7 @@ print("Saya sedang belajar Pyhton")
 ![Screenshot (381)](https://user-images.githubusercontent.com/115678171/197455165-a1c75569-433e-44c4-a11b-3e365f97e07e.png)
 
 # Latihan Python 2
-buatlah perintah seperti dibawah ini
+Buatlah perintah seperti dibawah ini
 Menjumlahkan dua buah bilangan variabel a dan b
 
 ```python
@@ -48,8 +48,8 @@ print("hasil penjumlahan a+b=",a+b)
 
 
 # Latihan Python 3
-buat file baru (Latihan 3)
-memasukan nilai Penggabungan, Penjumlahan, dan Pembagian dari nilai a= 6 dan b=8
+Buat file baru (Latihan 3)
+Memasukan nilai Penggabungan, Penjumlahan, dan Pembagian dari nilai a= 6 dan b=8
 ```python
 #Input nilai variabel
 a=input("masukan nilai a:")
@@ -70,7 +70,7 @@ print("Hasil pembagian {1}/{0}=%d".format(a,b) %(a/b)
 ```
 ![Screenshot (42)](https://user-images.githubusercontent.com/115678171/197456894-cc0279d8-de83-485b-985d-114a547b5160.png)
 
-kemudian klik run dan masukan nilai a=6 dan b=8 maka akan tampil sebagai berikut
+Kemudian klik run dan masukan nilai a=6 dan b=8 maka akan tampil sebagai berikut
 ![Screenshot (41)](https://user-images.githubusercontent.com/115678171/197457034-ba7a23a2-a922-4fab-9513-a93bcc4f73cd.png)
 
 
